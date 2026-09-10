@@ -2,7 +2,7 @@
 
 ## Informe 
 
-- [Ver documento en Google Docs] (https://docs.google.com/document/d/1qi-NiZrRVSq0-BbKn_AnFdQHbF3me6m2H3Awt_NtdKE/edit?tab=t.0)
+- [Ver documento en Google Docs](https://docs.google.com/document/d/1qi-NiZrRVSq0-BbKn_AnFdQHbF3me6m2H3Awt_NtdKE/edit?tab=t.0)
 
 ## Versión PDF
 
