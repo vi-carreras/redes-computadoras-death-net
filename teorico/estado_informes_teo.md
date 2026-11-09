@@ -5,3 +5,4 @@
 | T.P. N°2 | Completado | 24/08 | --- |
 | T.P. N°3 | Completado | 07/09 | --- |
 | T.P. N°4 | Completado | 14/09 | --- |
+| Monografía | Completado | 9/11 | --- |
